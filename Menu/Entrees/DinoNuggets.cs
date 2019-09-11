@@ -26,10 +26,10 @@ namespace DinoDiner.Menu.Entree
              this.Calories = 59;
         }
 
-        //public AddAdditionalNugget()
-        //{
+        public void AddAdditionalNugget()
+        {
 
-        //}
+        }
 
 
 

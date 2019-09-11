@@ -1,6 +1,6 @@
-/*using System.Collections.Generic;
-using Xunit;
 using DinoDiner.Menu.Entrees;
+using System.Collections.Generic;
+using Xunit;
 
 namespace MenuTest.Entrees
 {
@@ -49,4 +49,3 @@ namespace MenuTest.Entrees
     }
 
 }
-*/
