@@ -25,14 +25,12 @@ namespace Menu.Entrees
                 List<string> ingredients = new List<string>() { "Three Steakburger Patties" };
                 if (bun) ingredients.Add("Whole Wheat Bun");
                 if (lettuce) ingredients.Add("Lettuce");
-                if (lettuce) ingredients.Add("Lettuce");
+                if (tomato) ingredients.Add("Tomato");
                 if (onion) ingredients.Add("Onion");
                 if (pickle) ingredients.Add("Pickle");
                 if (ketchup) ingredients.Add("Ketchup");
-                if (lettuce) ingredients.Add("Lettuce");
                 if (mustard) ingredients.Add("Mustard");
                 if (mayo) ingredients.Add("Mayo");
-
                 return ingredients;
             }
         }
